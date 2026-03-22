@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Nikhil Kumar
+# Hi there 👋 I'm Nikhil Sarwal
 
 CSE (Data Science) Undergraduate • Aspiring Software Developer • ML Enthusiast
 
