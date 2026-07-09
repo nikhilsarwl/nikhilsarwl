@@ -31,4 +31,4 @@ I’m a Computer Science undergraduate at Bennett University with a growing inte
 📚 Strengthen problem-solving and technical foundations
 🚀 Build impactful and scalable projects
 💼 Secure a good internship in software or data-related roles
-🤝 Contribute to meaningful projects and collaborations
+🤝 Contribute to meaningful projects and collaborations.
